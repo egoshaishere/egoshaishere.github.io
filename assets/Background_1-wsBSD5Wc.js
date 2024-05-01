@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./index-Li-qLaqc.js";const c={},n={width:"440",height:"440",viewBox:"0 0 440 440",fill:"none",xmlns:"http://www.w3.org/2000/svg"},_=s("rect",{width:"440",height:"440",fill:"#FC8F8F"},null,-1),r=[_];function a(i,h){return t(),o("svg",n,r)}const d=e(c,[["render",a]]);export{d as default};
