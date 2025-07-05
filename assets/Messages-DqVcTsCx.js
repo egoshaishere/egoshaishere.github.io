@@ -1,0 +1,1 @@
+import{_ as a,b as t,D as e,o}from"./index-DHA6jbIh.js";const _={class:"messages-page"},n={__name:"Messages",setup(r){return(c,s)=>(o(),t("div",_,s[0]||(s[0]=[e("h1",null,"Сообщения",-1),e("p",null,"Здесь будут отображаться ваши сообщения.",-1)])))}},l=a(n,[["__scopeId","data-v-9828ef35"]]);export{l as default};
